@@ -9,7 +9,8 @@ permalink: /contact/
 I’m open to project collaboration, product work, and technical discussions.
 
 - GitHub: [Apex-developing](https://github.com/Apex-developing)
-- Email: [s.trynchuk@gmail.com](mailto:hs.trynchuk@gmail.com)
+- LinkedIn: [sergii-trynchuk](https://www.linkedin.com/in/sergii-trynchuk)
+- Email: [s.trynchuk@gmail.com](mailto:s.trynchuk@gmail.com)
 - Location: Germany
 
 If you want to discuss a project, idea, or collaboration, feel free to reach out.

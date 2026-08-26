@@ -35,16 +35,20 @@ timezone: Europe/Kyiv
 locale: en
 
 author:
-  name: "Apex Developing"
-  bio: "Software developer focused on web, automation, and product engineering."
-  location: "Ukraine"
+  name: "Sergii Trynchuk"
+  email: "s.trynchuk@gmail.com"
+  bio: "Software engineer and tech manager — building product-minded engineering and reliable tooling."
+  location: "Germany"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Apex-developing"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sergii-trynchuk"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:hello@apex-developing.dev"
+      url: "mailto:s.trynchuk@gmail.com"
 
 header:
   overlay_color: "#0b1020"
