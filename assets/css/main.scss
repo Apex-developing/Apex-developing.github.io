@@ -89,6 +89,33 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 2;
 }
 
+.site-title {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem 0.8rem;
+  border-radius: 999px;
+  background: rgba(15, 23, 42, 0.25);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  color: var(--text) !important;
+  text-decoration: none;
+  transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+.site-title:hover,
+.site-title:focus-visible {
+  background: rgba(15, 23, 42, 0.45);
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+#site-nav {
+  background: transparent;
+}
+
+.greedy-nav {
+  background: transparent;
+}
+
 .page__lead,
 .page__meta,
 .author__urls,
