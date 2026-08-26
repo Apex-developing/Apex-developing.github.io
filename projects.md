@@ -22,6 +22,8 @@ Below are projects and products led or delivered — condensed from my portfolio
 
 **Stack / context:** Outsourced web and mobile development (team management, APIs, frontend/backend coordination)
 
+[Read case study](/case-studies/ugreator/)
+
 ---
 
 ### Hacken (HakenAI / hPass / hVPN) — Cybersecurity & mobile apps
@@ -38,6 +40,8 @@ Below are projects and products led or delivered — condensed from my portfolio
 
 **Stack / context:** iOS & Android mobile development, product maintenance, service launches
 
+[Read case study](/case-studies/hacken/)
+
 ---
 
 ### Little Blue Dragon AR — AR/VR product
@@ -52,6 +56,8 @@ Below are projects and products led or delivered — condensed from my portfolio
 - Product launch and iteration based on user feedback.
 
 **Stack / context:** iOS AR development, 3D assets, game/interactive content
+
+[Read case study](/case-studies/little-blue-dragon/)
 
 ---
 
@@ -81,6 +87,15 @@ Below are projects and products led or delivered — condensed from my portfolio
 
 ### Earlier product & marketing work
 Roles that combined product, marketing and technical strategy including Ekipazh Service (CMO), Bistrozaim (CMO), Domino's Pizza Ukraine (CMO) and SmartSite (Project Manager). These positions involved launching digital products, managing marketing and building development teams — experience that shaped my product-focused approach to engineering.
+
+---
+
+### SoloQuest GM — AntigravityDM (AI-driven RPG platform)
+**Role:** Lead architect / product lead (MVP)
+
+**Summary:** Local desktop app (Tauri + Rust + React) combining file-based memory, typed state, and agent-driven gameplay. The system loads Markdown adventure modules and runs persistent sessions with structured retrieval and state management.
+
+[Read case study](/case-studies/soloquest-gm/)
 
 ---
 
