@@ -442,6 +442,99 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--text);
 }
 
+.project-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.3rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.project-card {
+  background: rgba(18, 27, 43, 0.82);
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  padding: 1.3rem 1.2rem 1.2rem;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.18);
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.project-card.featured {
+  border-color: rgba(49, 211, 255, 0.36);
+  box-shadow: 0 14px 30px rgba(49, 211, 255, 0.12);
+}
+
+.project-topline {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+}
+
+.project-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 28px;
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+  border: 1px solid rgba(255,255,255,0.08);
+  background: rgba(255,255,255,0.02);
+  color: var(--muted);
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.featured-badge {
+  background: rgba(49, 211, 255, 0.08);
+  border-color: rgba(49, 211, 255, 0.2);
+  color: var(--accent-2);
+}
+
+.project-card h3 {
+  margin: 0;
+  font-size: 1.35rem;
+}
+
+.project-role {
+  margin: 0;
+  color: var(--accent-2);
+  font-size: 0.9rem;
+}
+
+.project-card p,
+.project-card li {
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+.project-card ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.cta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: auto;
+}
+
+.btn-secondary {
+  color: var(--text) !important;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid var(--line);
+}
+
+.compact-list {
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+
+.compact-card {
+  min-height: 220px;
+}
+
 @keyframes float {
   0%, 100% {
     transform: translateY(0px);
