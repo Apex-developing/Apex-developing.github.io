@@ -7,13 +7,13 @@ baseurl: ""
 
 repository: "Apex-developing/Apex-developing.github.io"
 
-theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
 
 minimal_mistakes_skin: "dark"
 
 plugins:
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 defaults:
   - scope:
