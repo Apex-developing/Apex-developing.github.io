@@ -1,0 +1,17 @@
+- title: "Intro"
+  url: "/"
+
+- title: "About Me"
+  url: "/about/"
+
+- title: "Skills"
+  url: "/skills/"
+
+- title: "Projects"
+  url: "/projects/"
+
+- title: "Experience / Education"
+  url: "/experience/"
+
+- title: "Contacts"
+  url: "/contact/"

@@ -1,0 +1,60 @@
+title: "Apex Developing"
+name: "Apex Developing"
+description: "Software developer • building products with clean code and meaningful UX"
+
+url: "https://apex-developing.github.io"
+baseurl: ""
+
+repository: "Apex-developing/Apex-developing.github.io"
+
+theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
+
+minimal_mistakes_skin: "dark"
+
+plugins:
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: false
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+
+timezone: Europe/Kyiv
+locale: en
+
+author:
+  name: "Apex Developing"
+  bio: "Software developer focused on web, automation, and product engineering."
+  location: "Ukraine"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Apex-developing"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:hello@apex-developing.dev"
+
+header:
+  overlay_color: "#0b1020"
+  overlay_filter: "0.5"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Apex-developing"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:hello@apex-developing.dev"
