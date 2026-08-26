@@ -15,7 +15,7 @@ Below are selected projects and products that reflect the mix of product leaders
     <span class="project-badge featured-badge">Featured • 2026</span>
     <span class="project-badge">AI / Product</span>
   </div>
-  <h3>SoloQuest GM — AntigravityDM</h3>
+  <h3>AntigravityDM</h3>
   <p class="project-role">Lead architect / product lead (MVP)</p>
   <p>_Main current project (2026)._ A Rust + Tauri v2 desktop app combining file-first memory, typed game state, precise retrieval and agent-driven workflows. It loads Markdown adventure modules and keeps persistent campaign context.</p>
   <ul>
@@ -24,6 +24,7 @@ Below are selected projects and products that reflect the mix of product leaders
     <li>Desktop-first MVP moving toward SaaS with sync, subscriptions and shared campaigns</li>
   </ul>
   <p><strong>Stack:</strong> Rust, Tauri v2, React, TypeScript</p>
+  <p><strong>Download / access:</strong> <a href="https://soloquest-gm.itch.io/download" target="_blank" rel="noopener">soloquest-gm.itch.io/download</a></p>
   <div class="cta-row">
     <a class="btn btn-primary" href="/case-studies/soloquest-gm/">Read case study</a>
   </div>
