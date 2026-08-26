@@ -116,6 +116,14 @@ h1, h2, h3, h4, h5, h6 {
   background: transparent;
 }
 
+.layout--splash .page__title {
+  display: none;
+}
+
+.author__urls .u-url {
+  display: none;
+}
+
 .page__lead,
 .page__meta,
 .author__urls,
