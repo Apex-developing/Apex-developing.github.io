@@ -10,6 +10,21 @@ Below are projects and products led or delivered — condensed from my portfolio
 
 ---
 
+### SoloQuest GM — AntigravityDM (AI-driven RPG platform) (Featured — May 2026 — Aug 2026)
+**Role:** Lead architect / product lead (MVP)
+
+**Summary:** _Main current project (2026)._ Local desktop app (Rust + Tauri v2 + React + TypeScript) that emphasizes file-first memory, typed game state, precise retrieval and agent-driven workflows. The system loads Markdown adventure modules and runs persistent sessions with structured retrieval and state management.
+
+**Why this is the main project:**
+- Active development in 2026 (May — Aug) and the project's architecture demonstrates modern AI product patterns: retrieval-augmented generation, tool-driven agents, and deterministic state updates.
+- Moving toward SaaS (cloud sync, shared campaigns, premium subscriptions).
+
+**Stack / context:** Rust, Tauri v2, React, TypeScript, local Markdown/JSON modules, LLM orchestration (agent/tool flows)
+
+[Read case study](/case-studies/soloquest-gm/)
+
+---
+
 ### Ugreator — Social platform (outsourced delivery)
 **Role:** Head of Software Development Department (Jan 2023 — Jul 2024)
 
@@ -87,17 +102,3 @@ Below are projects and products led or delivered — condensed from my portfolio
 
 ### Earlier product & marketing work
 Roles that combined product, marketing and technical strategy including Ekipazh Service (CMO), Bistrozaim (CMO), Domino's Pizza Ukraine (CMO) and SmartSite (Project Manager). These positions involved launching digital products, managing marketing and building development teams — experience that shaped my product-focused approach to engineering.
-
----
-
-### SoloQuest GM — AntigravityDM (AI-driven RPG platform)
-**Role:** Lead architect / product lead (MVP)
-
-**Summary:** Local desktop app (Tauri + Rust + React) combining file-based memory, typed state, and agent-driven gameplay. The system loads Markdown adventure modules and runs persistent sessions with structured retrieval and state management.
-
-[Read case study](/case-studies/soloquest-gm/)
-
----
-
-### Download resume
-You can download the full resume (PDF) here: [Profile.pdf](/Profile.pdf)

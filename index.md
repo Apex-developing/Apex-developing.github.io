@@ -119,13 +119,14 @@ excerpt: "Software engineer crafting digital products, workflows, and clean user
   </div>
 
   <div class="stack-grid">
+    <span>Rust + Tauri v2</span>
+    <span>Python</span>
+    <span>TypeScript</span>
     <span>HTML</span>
     <span>CSS</span>
     <span>JavaScript</span>
-    <span>TypeScript</span>
     <span>React</span>
     <span>Node.js</span>
-    <span>Python</span>
     <span>GitHub</span>
     <span>Jekyll</span>
     <span>APIs</span>
