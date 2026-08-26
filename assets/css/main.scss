@@ -55,6 +55,21 @@ body {
   backdrop-filter: blur(12px);
 }
 
+.page__footer-follow {
+  background: transparent;
+}
+
+.page__footer-follow .social-icons {
+  background: rgba(15, 23, 42, 0.25);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 0.6rem 0.8rem;
+}
+
+.page__footer-follow .social-icons a {
+  color: var(--text) !important;
+}
+
 .site-title,
 .site-subtitle,
 .nav__list a,
