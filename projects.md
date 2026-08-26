@@ -25,6 +25,17 @@ Below are projects and products led or delivered — condensed from my portfolio
 
 ---
 
+### Rust & Tauri Learning Path — practical learning app
+**Role:** Independent product / learning project
+
+**Summary:** A mobile-first learning app focused on Rust, TypeScript, and Tauri v2. The project is structured as a learning path with practical, hands-on material and a clear progression for building modern desktop app skills.
+
+**Stack / context:** Rust, Tauri v2, TypeScript, frontend learning UX, progressive learning flow
+
+**Live project:** https://apex-developing.github.io/rust-tauri-learning-path/
+
+---
+
 ### Ugreator — Social platform (outsourced delivery)
 **Role:** Head of Software Development Department (Jan 2023 — Jul 2024)
 
@@ -102,3 +113,19 @@ Below are projects and products led or delivered — condensed from my portfolio
 
 ### Earlier product & marketing work
 Roles that combined product, marketing and technical strategy including Ekipazh Service (CMO), Bistrozaim (CMO), Domino's Pizza Ukraine (CMO) and SmartSite (Project Manager). These positions involved launching digital products, managing marketing and building development teams — experience that shaped my product-focused approach to engineering.
+
+---
+
+## Hobby Projects
+
+Short experimental and personal projects built for learning, productivity, and fun.
+
+### Court Calm
+A lightweight personal project focused on clarity, calm workflow and practical utility. It explores product, UX and workflow automation in a small, focused app experience.
+
+**Live project:** https://apex-developing.github.io/CourtCalm/
+
+### ArkushCoC
+A fan-made companion project for Call of Cthulhu, built as a personal utility for game support and play experience. It focuses on easy access to game data and lightweight session support.
+
+**Live project:** https://apex-developing.github.io/ArkushCoC/
