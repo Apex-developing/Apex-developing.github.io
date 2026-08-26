@@ -6,22 +6,22 @@ permalink: /experience/
 
 ## Experience
 
-### Developer / Product-focused Engineering
-Working on digital products, web interfaces, automation, and software solutions with a strong focus on usability and quality.
+### Product-minded developer
+Working on digital products, web interfaces, automation, and lean software solutions with a focus on usability, performance, and practical value.
 
 - Building practical solutions for real-world problems
-- Improving workflows and product experience
-- Working across frontend, tooling, and product thinking
+- Improving workflows, user experience, and product clarity
+- Working across frontend, tooling, and product-oriented implementation
 
 ---
 
 ## Education
 
-### Self-taught and continuous learning path
+### Continuous learning through hands-on work
 Focused on:
 - Modern web technologies
-- Software engineering principles
-- Product development
-- UI/UX and workflow optimization
+- Software engineering fundamentals
+- Product and UX thinking
+- Workflow optimization and automation
 
-Additional learning comes from hands-on projects, experimentation, and real product work.
+Much of the learning comes from real projects, experimentation, and building solutions that solve daily problems with better tools.

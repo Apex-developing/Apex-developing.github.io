@@ -5,22 +5,22 @@ permalink: /about/
 author_profile: true
 ---
 
-I’m a developer who enjoys turning ideas into working digital products.
+I’m a software developer focused on building practical, user-centered digital products. I enjoy working across the full product lifecycle — from idea and design direction to implementation, iteration, and refinement.
 
-My focus is on building clean, maintainable software that balances technical quality and practical usability. I’m interested in modern web technologies, product design thinking, and efficient workflows.
+My work is driven by a simple principle: technology should be clear, useful, and dependable. I care about maintainable architecture, clean interfaces, and solutions that solve real user needs without unnecessary complexity.
 
 ### What I care about
 - Clear architecture and maintainable code
-- Good user experience
+- Strong user experience and product thinking
 - Simple, effective solutions
-- Continuous learning and improvement
+- Continuous learning and delivery improvement
 
 ### My approach
-I like to work with a product mindset: understand the problem deeply, build the right solution, iterate quickly, and improve based on feedback.
+I like to understand the problem before jumping to the solution. That means aligning technical choices with product goals, keeping the user experience in focus, and improving based on feedback rather than assumptions.
 
 ### Core interests
 - Web development
-- Software engineering
-- Automation
-- Product development
-- UI/UX improvements
+- Product engineering
+- Automation and efficiency improvements
+- UI/UX and interaction design
+- Building reliable digital workflows

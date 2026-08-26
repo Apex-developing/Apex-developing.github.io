@@ -13,16 +13,16 @@ permalink: /skills/
 - TypeScript
 - React
 - Jekyll
-- Responsive design
+- Responsive and accessible interfaces
 
-### Backend
+### Backend & workflow
 - Node.js
 - Python
 - REST APIs
-- Database design
-- Authentication flows
+- Database basics and integration
+- Authentication and secure data flow
 
-### Tools
+### Tools & delivery
 - Git / GitHub
 - VS Code
 - Docker
@@ -30,9 +30,9 @@ permalink: /skills/
 - CLI tooling
 - CI/CD basics
 
-### Soft skills
+### Strengths
 - Problem solving
-- Communication
-- Product thinking
-- Learning speed
-- Team collaboration
+- Communication and collaboration
+- Product-focused thinking
+- Fast learning and iteration
+- Building practical solutions for real users
