@@ -10,25 +10,25 @@ header:
       url: "/projects/"
     - label: "Contact Me"
       url: "/contact/"
-excerpt: "Software engineer crafting digital products, workflows, and clean user experiences."
+excerpt: "Applied AI engineering, AI solutions architecture, and rapid MVP development."
 ---
 
 <div class="hero-shell">
   <div class="hero-copy">
-    <p class="eyebrow">Software engineer / product-minded developer</p>
-    <h1>Building practical digital products with clear code and thoughtful UX.</h1>
+    <p class="eyebrow">Applied AI / AI Engineering / Solutions Architecture</p>
+    <h1>Building AI-powered products from idea to working MVP.</h1>
     <p class="lead">
-      I design and build tools, interfaces, and systems that help products feel intuitive,
-      reliable, and valuable in real use.
+      I design and build practical AI applications, agentic workflows, and prototypes — combining
+      product thinking, software engineering, and AI systems architecture.
     </p>
     <div class="hero-actions">
       <a class="btn btn-primary" href="/projects/">View projects</a>
       <a class="btn btn-secondary" href="/contact/">Let’s connect</a>
     </div>
     <ul class="hero-meta">
-      <li>Frontend & backend</li>
-      <li>Product thinking</li>
-      <li>Automation</li>
+      <li>LLM applications</li>
+      <li>AI agents &amp; workflows</li>
+      <li>Rapid MVP development</li>
     </ul>
   </div>
 
@@ -41,10 +41,10 @@ excerpt: "Software engineer crafting digital products, workflows, and clean user
         <span></span>
         <span></span>
       </div>
-      <pre><code>const product = {
-  focus: "clarity",
-  stack: ["Web", "API", "UX"],
-  outcome: "better workflows"
+      <pre><code>const aiProduct = {
+  focus: "useful AI",
+  stack: ["LLM", "Agents", "APIs"],
+  outcome: "working MVP"
 };</code></pre>
     </div>
   </div>
@@ -52,46 +52,46 @@ excerpt: "Software engineer crafting digital products, workflows, and clean user
 
 <div class="stats-grid">
   <div class="stat-card">
-    <strong>Product</strong>
-    <span>Mindset</span>
+    <strong>AI</strong>
+    <span>Applications</span>
   </div>
   <div class="stat-card">
-    <strong>Web</strong>
-    <span>Engineering</span>
+    <strong>Agents</strong>
+    <span>Workflows</span>
   </div>
   <div class="stat-card">
-    <strong>Automation</strong>
-    <span>Efficiency</span>
+    <strong>MVP</strong>
+    <span>Prototyping</span>
   </div>
   <div class="stat-card">
-    <strong>UX</strong>
-    <span>Focused</span>
+    <strong>Architecture</strong>
+    <span>Solutions</span>
   </div>
 </div>
 
 <section class="content-panel">
   <div class="section-heading">
     <p class="eyebrow">About</p>
-    <h2>Designing software that feels useful, fast, and clear.</h2>
+    <h2>Turning AI ideas into practical software.</h2>
   </div>
 
   <div class="two-column">
     <div>
       <p>
-        I’m a software developer focused on web products, internal tooling, and digital experiences
-        that solve real problems rather than just looking polished.
+        I build AI-powered applications and prototypes where product requirements, software
+        engineering, and LLM capabilities meet.
       </p>
       <p>
-        My work sits in the overlap between engineering and product thinking: I care about clean
-        architecture, maintainable code, user experience, and practical outcomes.
+        My approach is practical: understand the problem, design the smallest useful system,
+        build a working prototype, evaluate it, and iterate toward an MVP.
       </p>
     </div>
     <div>
       <ul class="check-list">
-        <li>Frontend and backend development</li>
-        <li>Responsive, accessible interfaces</li>
-        <li>API and workflow integration</li>
-        <li>Tooling, automation, and optimization</li>
+        <li>LLM-powered applications</li>
+        <li>Agentic workflows and tool use</li>
+        <li>RAG, retrieval, memory and state</li>
+        <li>AI application architecture and APIs</li>
       </ul>
     </div>
   </div>
@@ -99,38 +99,39 @@ excerpt: "Software engineer crafting digital products, workflows, and clean user
 
 <div class="feature-grid">
   <div class="feature-card">
-    <h3>Product engineering</h3>
-    <p>From idea to implementation, I focus on solutions that are useful, scalable, and easy to maintain.</p>
+    <h3>Applied AI engineering</h3>
+    <p>Building working AI applications with LLMs, agents, retrieval, structured state, tools, and APIs.</p>
   </div>
   <div class="feature-card">
-    <h3>Web experience</h3>
-    <p>Building polished interfaces and workflows that help people move faster and work with less friction.</p>
+    <h3>Rapid prototyping</h3>
+    <p>Turning product ideas into focused technical prototypes that can be tested before committing to a larger build.</p>
   </div>
   <div class="feature-card">
-    <h3>Automation</h3>
-    <p>Turning repetitive work into reliable systems, scripts, and integrations that save time.</p>
+    <h3>AI solutions architecture</h3>
+    <p>Designing practical application architectures that separate models, application logic, memory, retrieval, tools, and data.</p>
   </div>
 </div>
 
 <section class="content-panel">
   <div class="section-heading">
     <p class="eyebrow">What I work with</p>
-    <h2>Core stack and capabilities.</h2>
+    <h2>AI, software, and product engineering.</h2>
   </div>
 
   <div class="stack-grid">
-    <span>Rust + Tauri v2</span>
+    <span>LLMs / Generative AI</span>
+    <span>AI Agents</span>
+    <span>RAG / Retrieval</span>
+    <span>AI Memory &amp; State</span>
+    <span>Tool Calling</span>
+    <span>AI Orchestration</span>
     <span>Python</span>
+    <span>Rust + Tauri v2</span>
     <span>TypeScript</span>
-    <span>HTML</span>
-    <span>CSS</span>
-    <span>JavaScript</span>
     <span>React</span>
-    <span>Node.js</span>
+    <span>REST APIs</span>
     <span>GitHub</span>
-    <span>Jekyll</span>
-    <span>APIs</span>
-    <span>UX</span>
-    <span>Automation</span>
+    <span>Docker</span>
+    <span>Product Engineering</span>
   </div>
 </section>
