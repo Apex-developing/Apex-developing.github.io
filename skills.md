@@ -7,29 +7,33 @@ permalink: /skills/
 ## Technologies & Tools
 
 ### Core & native stacks
-- Rust + Tauri v2 (desktop apps)
-- Python
-- TypeScript
+- Python — AI application development, APIs and automation
+- Rust + Tauri v2 — desktop applications and local-first software
+- TypeScript — application logic and typed product interfaces
 
 ### Frontend
-- HTML
-- CSS / SCSS
-- JavaScript
 - React
+- TypeScript / JavaScript
+- HTML / CSS / SCSS
 - Jekyll
 - Responsive and accessible interfaces
+- Product-oriented UI and interaction design
 
 ### Backend & workflow
-- Node.js
-- REST APIs
-- Database basics and integration
+- REST APIs and service integration
+- Application architecture and API design
+- Database integration and structured application state
 - Authentication and secure data flow
+- Docker and development tooling
 
 ### AI & ML / Product AI
-- Retrieval-augmented generation (RAG) — architecting systems that combine retrieval with LLMs for precise, contextual results
-- Agentic workflows — controlled tool-driven agent flows (tool use, typed state, deterministic updates)
-- AI-powered app design — designing UX and data flows for applications that embed LLMs safely and usefully
-- Memory vs chat — file-first/local memory patterns, content indexing and precise context delivery for LLMs
+- LLM applications — integrating generative AI into practical product workflows
+- AI agents — designing controlled, tool-driven agent workflows with explicit actions and state
+- RAG / retrieval — combining retrieval with LLMs to provide focused, contextual information
+- Memory & state — separating persistent knowledge, application state and conversation context
+- Tool calling — structured interfaces between AI agents and application logic
+- AI orchestration — designing context flow, tool use and model interactions around product requirements
+- AI-powered UX — designing useful and understandable user flows around LLM capabilities
 
 ### Tools & delivery
 - Git / GitHub
@@ -38,10 +42,13 @@ permalink: /skills/
 - Figma
 - CLI tooling
 - CI/CD basics
+- Rapid prototyping and MVP development
 
 ### Strengths
-- Problem solving
-- Communication and collaboration
-- Product-focused thinking
-- Fast learning and iteration
-- Building practical, AI-driven solutions for real users
+- Technical product thinking
+- Software and AI application architecture
+- Translating product requirements into technical solutions
+- Problem solving and pragmatic decision making
+- Communication and cross-functional collaboration
+- Fast learning, prototyping and iteration
+- Building practical AI-driven products with a clear path from prototype to MVP
