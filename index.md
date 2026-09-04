@@ -10,12 +10,12 @@ header:
       url: "/projects/"
     - label: "Contact Me"
       url: "/contact/"
-excerpt: "Applied AI engineering, AI solutions architecture, and rapid MVP development."
+excerpt: "Technical Product Management, applied AI engineering, AI solutions architecture, and rapid MVP development."
 ---
 
 <div class="hero-shell">
   <div class="hero-copy">
-    <p class="eyebrow">Applied AI / AI Engineering / Solutions Architecture</p>
+    <p class="eyebrow">Technical Product Manager / Applied AI / Solutions Architecture</p>
     <h1>Building AI-powered products from idea to working MVP.</h1>
     <p class="lead">
       I design and build practical AI applications, agentic workflows, and prototypes — combining
