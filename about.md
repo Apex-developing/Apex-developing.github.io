@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-I build practical AI-powered products and software prototypes at the intersection of product thinking, software engineering, and AI systems architecture. My focus is on turning ideas into working applications — especially where LLMs, AI agents, retrieval, memory, and structured workflows can create useful product experiences.
+I’m a Technical Product Manager focused on building practical AI-powered products and software prototypes at the intersection of product thinking, software engineering, and AI systems architecture. My focus is on turning ideas into working applications — especially where LLMs, AI agents, retrieval, memory, and structured workflows can create useful product experiences.
 
 I bring 15+ years of experience across software delivery, product development, technical project management, and engineering leadership. Today, I combine that product and delivery background with hands-on work in applied AI, rapid prototyping, and modern software architecture.
 
